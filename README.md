@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/65/e0/8b65e014a387199f1a8cd20f02151020.gif" width="420" alt="RX-78-2 Gundam" />
+  <img src="https://i.pinimg.com/originals/8b/65/e0/8b65e014a387199f1a8cd20f02151020.gif" width="420" alt="Gundam" />
 </p>
 
 <h1 align="center">🤖 Hola, soy Mauro Gomez</h1>
