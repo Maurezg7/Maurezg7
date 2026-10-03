@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mauro_gomez_fullstack.gif" width="420" alt="Mauro Gomez - Full Stack Developer" />
+  <img src="./assets/mauro-gomez.gif" width="420" alt="Mauro Gomez - Full Stack Developer" />
 </p>
 
 <h1 align="center">🤖 Hola, soy Mauro Gomez</h1>
