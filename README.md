@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/65/e0/8b65e014a387199f1a8cd20f02151020.gif" width="420" alt="Gundam" />
+  <img src="./assets/mauro_gomez_fullstack.gif" width="420" alt="Mauro Gomez - Full Stack Developer" />
 </p>
 
 <h1 align="center">🤖 Hola, soy Mauro Gomez</h1>
