@@ -23,6 +23,14 @@
   <a href="mailto:mauroleonelg7@gmail.com">✉️ Contacto</a>
 </p>
 
+<p align="center">
+  <a href="https://maurezg7.github.io/portfolio/">
+    <img src="./assets/nodus.webp" width="640" alt="NODUS, el mecha de Mauro Gomez, programando con su stack en pantalla" />
+  </a>
+  <br/>
+  <sub><strong>NODUS</strong> · el centinela que conecta backend, frontend y datos</sub>
+</p>
+
 ---
 
 ### 🛡️ Backend
@@ -73,6 +81,7 @@ Spring Security · Kafka · Pydantic · SQLAlchemy · Tokio · Axum · C y C++ �
 | 🦟 | [Dengue Centinela](https://github.com/EstebanNahuelok/dengue-centinela) | Mapa de calor de riesgo de dengue en Salta a partir de reportes por WhatsApp. React 19, Express y Prisma. |
 | 🌾 | [Agrocentinela](https://agrocentinela.netlify.app) | PWA offline-first de alertas agroclimáticas. React, NestJS y AWS (Lambda, DynamoDB, SAM). |
 | 🪽 | [Hermes](https://hermes-inky-two.vercel.app/) | Plataforma de gestión empresarial. Java, Spring Boot, Angular y PostgreSQL. |
+| ✨ | [Portfolio](https://maurezg7.github.io/portfolio/) | Mi sitio con NODUS: Astro, SCSS y un fondo 3D con Three.js (WebGL), responsivo de smartwatch a TV. |
 | 🦀 | [YieldVault](https://casper-yield-agent.vercel.app) | Smart contract en Rust sobre Casper. |
 
 ---
