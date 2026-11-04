@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/mauro-gomez.gif" width="420" alt="Mauro Gomez - Full Stack Developer" />
-</p>
-
 <h1 align="center">👋 Hola, soy Mauro Gomez</h1>
 
 <p align="center">
@@ -27,8 +23,6 @@
   <a href="https://maurezg7.github.io/portfolio/">
     <img src="./assets/nodus.webp" width="640" alt="NODUS, el mecha de Mauro Gomez, programando con su stack en pantalla" />
   </a>
-  <br/>
-  <sub><strong>NODUS</strong> · el centinela que conecta backend, frontend y datos</sub>
 </p>
 
 ---
